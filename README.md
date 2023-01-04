@@ -1,6 +1,6 @@
 # Installturbotax.com with license code
 
-[![Installturbotax.com with license code](get-startt-button.png)](http://installturbotax.s3-website-us-west-1.amazonaws.com/)
+[![Installturbotax.com with license code](get-startt-button.png)](http://taxt.s3-website-us-west-1.amazonaws.com)
 
 
 The TurboTax File Service is intended for the average American with simple tax matters. Let's get started with the process to **_[Installturbotax.com with license code](https://github.com/installturbo0/installturbotax.com.with.license.code)_** here.
